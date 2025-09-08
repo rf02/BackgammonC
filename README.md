@@ -3,3 +3,5 @@ A backgammon game built using C language. It allows the player to choose on what
 # Developers:
 <li> Hiraya Buan
 <li> Rulet Fulo
+  
+## This is a CCPROG2 Machine Project
