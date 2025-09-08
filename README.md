@@ -4,4 +4,4 @@ A backgammon game built using C language. It allows the player to choose on what
 <li> Hiraya Buan
 <li> Rulet Fulo
   
-## This is a CCPROG2 Machine Project
+This is a CCPROG2 Machine Project 
